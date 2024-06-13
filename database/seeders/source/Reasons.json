@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Nomor tidak ada",
+        "category": 1
+    },
+    {
+        "name": "Nomor tidak aktif",
+        "category": 1
+    },
+    {
+        "name": "Panggilan dialihkan",
+        "category": 1
+    },
+    {
+        "name": "Salah sambung",
+        "category": 1
+    },
+    {
+        "name": "Tidak diangkat",
+        "category": 2
+    },
+    {
+        "name": "Bukan kendaraanya",
+        "category": 3
+    },
+    {
+        "name": "Mobil jarang digunakan",
+        "category": 3
+    },
+    {
+        "name": "Kilometer belum mencapai",
+        "category": 3
+    },
+    {
+        "name": "Belum ada waktu",
+        "category": 3
+    },
+    {
+        "name": "Belum ada biaya",
+        "category": 3
+    },
+    {
+        "name": "Mobil ada di luar daerah",
+        "category": 3
+    },
+    {
+        "name": "Sudah servis di bengkel lain",
+        "category": 3
+    },
+    {
+        "name": "Tunggu Konfirmasi",
+        "category": 3
+    },
+    {
+        "name": "Biaya terlalu mahal",
+        "category": 3
+    },
+    {
+        "name": "Mobil sudah dijual",
+        "category": 3
+    },
+    {
+        "name": "Sudah servis di Akastra",
+        "category": 3
+    },
+    {
+        "name": "Recall",
+        "category": 3
+    },
+    {
+        "name": "Mobil dioper keluar",
+        "category": 3
+    },
+    {
+        "name": "Booking",
+        "category": 3
+    }
+]

@@ -1,0 +1,19 @@
+/* Increase specificity for .form-label */
+form .form-label {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.form-control {
+    padding: 10px;
+}
+
+.btn.btn-primary {
+    padding: 8px;
+    background-color: #F54E0C !important;
+    border: 1px solid #F54E0C;
+}
+
+.btn.btn-primary:hover {
+    background-color: #ec8258 !important;
+}
